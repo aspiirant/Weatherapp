@@ -7,6 +7,7 @@ Dit is een simpele weer-app waarmee gebruikers de huidige weersomstandigheden vo
 - Gebruikers kunnen zoeken naar een locatie en de huidige weersomstandigheden krijgen
 - De app toont de temperatuur, luchtvochtigheid, windsnelheid en weersbeschrijving voor de geselecteerde locatie
 - Gebruikers kunnen schakelen tussen Celsius- en Fahrenheit-eenheden
+- De data voor opgeslapen in een gecachde json file.
 
 ## Technologies Used
 
