@@ -9,11 +9,6 @@ Dit is een simpele weer-app waarmee gebruikers de huidige weersomstandigheden vo
 - Gebruikers kunnen schakelen tussen Celsius- en Fahrenheit-eenheden
 - De data voor opgeslapen in een gecachde json file.
 
-## Technologies Used
-
-- Python
-- OpenWeatherMap API
-
 ## Getting Started
 
 Om te beginnen met de app, clone de repository en run de `weatherapp.py`
@@ -23,6 +18,11 @@ Om te beginnen met de app, clone de repository en run de `weatherapp.py`
 1. Run de `weatherapp.py` en kies waar je het weer wilt weten en of je Celsius/Fahrenheit wilt.
 2. De app toont de huidige weersomstandigheden voor de geselecteerde locatie.
 3. Schakel tussen Celsius- en Fahrenheit-eenheden met de C/F optie aan het begin van de app.
+
+## Bronvermelding
+
+- OpenWeatherMap API
+- Programming language: Python
 
 ## Credits
 
